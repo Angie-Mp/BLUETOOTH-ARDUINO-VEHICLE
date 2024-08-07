@@ -1,0 +1,4 @@
+storePassword=untitled
+keyPassword=untitled
+keyAlias=untitled
+storeFile=../untitled.jks

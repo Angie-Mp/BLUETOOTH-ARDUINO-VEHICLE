@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.pauldemarco.flutter_blue-merged_res-10:/layout/notification_action_tombstone.xml",
+        "source": "com.pauldemarco.flutter_blue-core-1.6.0-2:/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.pauldemarco.flutter_blue-merged_res-10:/layout/custom_dialog.xml",
+        "source": "com.pauldemarco.flutter_blue-core-1.6.0-2:/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "com.pauldemarco.flutter_blue-merged_res-10:/layout/notification_template_part_time.xml",
+        "source": "com.pauldemarco.flutter_blue-core-1.6.0-2:/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "com.pauldemarco.flutter_blue-merged_res-10:/layout/notification_action.xml",
+        "source": "com.pauldemarco.flutter_blue-core-1.6.0-2:/layout/notification_action.xml"
+    },
+    {
+        "merged": "com.pauldemarco.flutter_blue-merged_res-10:/layout/notification_template_icon_group.xml",
+        "source": "com.pauldemarco.flutter_blue-core-1.6.0-2:/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.pauldemarco.flutter_blue-merged_res-10:/layout/notification_template_part_chronometer.xml",
+        "source": "com.pauldemarco.flutter_blue-core-1.6.0-2:/layout/notification_template_part_chronometer.xml"
+    }
+]
